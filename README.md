@@ -16,7 +16,7 @@ detailing with distributors and consumer.
 <p align="left"> <a href="https://www.github.com/arshirabbani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=arshirabbani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 
-⚡ With my varied and specialized work experience of 7+ years in Data Analyst Profile, I can create a complex data model and generate a business report that enables customers to take decisions and maximize productivity. Eager to bring expertise to solve new challenging problems. 
+⚡ With my varied and specialized work experience of 8+ years in Data Analyst Profile, I can create a complex data model and generate a business report that enables customers to take decisions and maximize productivity. Eager to bring expertise to solve new challenging problems. 
 
 ⚡ I mentored Analytics Training sessions at Oracle India and acted as a Course Instructor during my association with Pheonix Global for Data Analytics course. 
 
